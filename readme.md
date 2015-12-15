@@ -73,6 +73,7 @@ YAML in the text file is read and made available to the theme. The variables dep
 	height: 20
 	textcolor: #ffffff
 	---
+	Image caption goes here
 
 ![content dimensions](http://jack.works/exposeimages/dimensionvariables.jpg)
 
@@ -86,6 +87,7 @@ The units are in percentages
 	polygon:[{"x":5, "y":0},{"x":100, "y":0},{"x":100, "y":100},{"x":7, "y":55}, {"x":0, "y":16}]
 	textcolor: #ff9518
 	---
+	Image caption goes here
 
 Use a polygon to wrap text around shapes. The polygon is defined by 3 or more points in a JSON blob. Units are again in percentages.
 
